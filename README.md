@@ -17,3 +17,4 @@ https://github.com/user-attachments/assets/6ec75c2a-1e57-4652-b336-81a39f121389
 - Open the project in Xcode.
 - Replace YOUR_API_KEY in WeatherManager.swift with your actual API key from OpenWeather.
 - Build and run the project on the simulator or a physical device.
+
